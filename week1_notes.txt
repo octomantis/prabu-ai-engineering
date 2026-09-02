@@ -1,0 +1,5 @@
+week 1: Python and Essential ML
+Current topic: Files
+Status: In progress
+
+Next topic: JSON
